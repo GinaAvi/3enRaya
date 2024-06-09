@@ -1,1 +1,1 @@
-# 3enRaya
+En este codigo se muestra como hacer una base de datos y una tabla en php, la base de datos llamada base_Registros y la tabla llamada datos que estan encargadas de guardar los usuarios y contraseñas de los usuarios 
